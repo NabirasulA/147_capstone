@@ -1,0 +1,8 @@
+Important: If you need to run conda commands in the future, you have two options:
+
+# Option 1: Use the full conda path
+& 'C:\Users\PESU-RF\miniconda3\Scripts\conda.exe' <command>
+
+# Option 2: Open Anaconda Prompt from Start Menu
+# Then run conda commands normally
+conda <command>
