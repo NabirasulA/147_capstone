@@ -226,10 +226,10 @@ The architecture includes:
 
 ## 👨‍💻 **Developed By**
 
-**Nabirasul A** - PES2UG22CS328 - B.Tech – Computer Science Engineering, Capstone Project 147
-**Nirmith M N** - PES2UG22CS365 - B.Tech – Computer Science Engineering, Capstone Project 147
-**Sundeep S Mallapadi** - PES2UG22CS598 - B.Tech – Computer Science Engineering, Capstone Project 147
-**Tejas T N** - PES2UG22CS621 - B.Tech – Computer Science Engineering, Capstone Project 147
+**Nabirasul A** - PES2UG22CS328 - B.Tech(CSE) - Capstone Project 147
+**Nirmith M N** - PES2UG22CS365 - B.Tech(CSE) - Capstone Project 147
+**Sundeep S Mallapadi** - PES2UG22CS598 - B.Tech(CSE) - Capstone Project 147
+**Tejas T N** - PES2UG22CS621 - B.Tech(CSE) - Capstone Project 147
 
 Developed with the help of **Professor Dr. Gokul Kannan Sadasivam**
 
