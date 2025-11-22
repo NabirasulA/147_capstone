@@ -1,7 +1,9 @@
-# 📌 **VEREMI Misbehavior Detection using Machine Learning & Explainable AI (XAI)**
+# 📌 **Misbehavior detection in VANET using Deep Learning**
 
-This project implements a complete pipeline for **VANET misbehavior detection** using the **VEREMI dataset**.
-Multiple machine-learning models (MLP, CNN-1D, XGBoost) are trained, evaluated, and interpreted using explainability techniques such as **SHAP** and **LIME**.
+This project implements a complete deep learning–based misbehavior detection pipeline for the VEREMI dataset, used in VANET (Vehicular Ad Hoc Network) security analysis.
+The system uses neural networks — MLP and CNN-1D — along with an additional XGBoost baseline model for comparison.
+
+Advanced interpretability methods such as SHAP and LIME are used to provide Explainable AI (XAI) insights into how the deep learning models make decisions.
 
 ---
 
@@ -19,9 +21,10 @@ Multiple machine-learning models (MLP, CNN-1D, XGBoost) are trained, evaluated, 
 * Evaluation Metrics:
 
   * Accuracy
+  * 
   * Confusion Matrix
   * ROC Curve
-  * Classification Report
+  
 * Explainability (XAI):
 
   * SHAP Summary Plots
