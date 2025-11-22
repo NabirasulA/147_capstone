@@ -21,7 +21,9 @@ Advanced interpretability methods such as SHAP and LIME are used to provide Expl
 * Evaluation Metrics:
 
   * Accuracy
-  * 
+  * Precision
+  * F1 Score
+  * Recall
   * Confusion Matrix
   * ROC Curve
   
@@ -236,12 +238,4 @@ This repository is for **academic and research use only**.
 
 ---
 
-If you want, I can also provide:
-
-✔ Enhanced GitHub banner
-✔ Shields badges (Python version, last commit, stars)
-✔ A better architecture diagram (HD horizontal)
-✔ A professional project PDF for submission
-
-Just tell me!
 
